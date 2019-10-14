@@ -17,3 +17,4 @@
 
 7) Built the pipeline to upload the index.html file to Amazon S3 bucket.
 
+8) Added another stage in the pipeline to run a linter so that it fails the job if anything gets in that is invalid.
