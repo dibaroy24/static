@@ -13,4 +13,4 @@
 
 5) Created AWS credentials so that they can be used in the pipeline.
 
-6)
+6) Created a S3 bucket to host the static website.
