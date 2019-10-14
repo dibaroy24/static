@@ -7,6 +7,6 @@
 
 2) Installed Jenkins and necessary plugings along with Blue Ocean setup.
 
-3) Created a new repository in your GitHub account named 'static'. In the repo, create two files: "index.html" and "Jenkinsfile".
+3) Created a new repository in your GitHub account named 'static' with two files: "index.html" and "Jenkinsfile".
 
 4) 
